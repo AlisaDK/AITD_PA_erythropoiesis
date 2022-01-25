@@ -1,0 +1,7 @@
+*
+!.gitignore
+!data-raw/
+!data/
+!R/
+!README.md
+.Rproj.user
